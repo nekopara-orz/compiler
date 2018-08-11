@@ -1,12 +1,10 @@
 package com.example.zjy10.jb;
 
-import android.annotation.SuppressLint;
+
 import android.app.Activity;
-import android.content.Context;
-import android.graphics.Color;
+
 import android.os.Bundle;
-import android.os.Handler;
-import android.os.Message;
+
 import android.text.Spannable;
 import android.text.SpannableString;
 import android.text.style.ForegroundColorSpan;
